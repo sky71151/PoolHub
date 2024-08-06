@@ -1,0 +1,15 @@
+../Core/Src/main.c:111:5:main	8	static
+../Core/Src/main.c:200:6:SystemClock_Config	72	static
+../Core/Src/main.c:244:13:MX_UART4_Init	8	static
+../Core/Src/main.c:277:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:310:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:350:6:sendData	16	static
+../Core/Src/main.c:356:6:HAL_UARTEx_RxEventCallback	24	static
+../Core/Src/main.c:405:6:Modbus	32	static
+../Core/Src/main.c:420:6:RecievedModbusData	120	static
+../Core/Src/main.c:437:6:Debug_message	16	static
+../Core/Src/main.c:451:6:StartDefaultTask	16	static
+../Core/Src/main.c:473:6:StartModbusTask	16	static
+../Core/Src/main.c:492:6:StartEspTask	16	static
+../Core/Src/main.c:512:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:529:6:Error_Handler	4	static,ignoring_inline_asm

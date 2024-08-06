@@ -1,0 +1,492 @@
+2024-07-20 22:52:46,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-07-20 22:52:46,359 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-07-20 22:52:46,361 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-07-20 22:54:25,196 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-07-20 22:54:25,196 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-07-20 22:54:32,758 [INFO] Activator:176 - 
+
+
+2024-07-20 22:54:32,759 [INFO] Activator:177 - !SESSION log4j initialized
+2024-07-20 22:54:37,461 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-07-20 22:54:40,932 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431
+2024-07-20 22:54:40,964 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Working directory: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.genuitec.copilot4eclipse_1.2.1.202406240349\agent\dist
+2024-07-20 22:54:40,964 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/mcu/
+2024-07-20 22:54:40,965 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/boardmanager/
+2024-07-20 22:54:40,965 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/mcufinder/images/
+2024-07-20 22:54:40,974 [INFO] ApiDb:250 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/
+2024-07-20 22:54:40,976 [INFO] DbMcusAds:125 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/
+2024-07-20 22:54:40,979 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/cs/
+2024-07-20 22:54:41,201 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-07-20 22:54:41,337 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/mcu/
+2024-07-20 22:54:41,338 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/boardmanager/
+2024-07-20 22:54:41,338 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/mcufinder/images/
+2024-07-20 22:54:41,338 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,338 [INFO] ApiDb:250 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/
+2024-07-20 22:54:41,338 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,339 [INFO] DbMcusAds:125 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/
+2024-07-20 22:54:41,339 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,339 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,339 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/cs/
+2024-07-20 22:54:41,469 [INFO] MainPanel:268 - HeapMemory: 268435456
+2024-07-20 22:54:41,638 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/mcu/
+2024-07-20 22:54:41,639 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/boardmanager/
+2024-07-20 22:54:41,639 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\/plugins/mcufinder/images/
+2024-07-20 22:54:41,639 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,639 [INFO] ApiDb:250 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/
+2024-07-20 22:54:41,639 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,639 [INFO] DbMcusAds:125 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/
+2024-07-20 22:54:41,639 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,639 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\vanba\.stmcufinder\plugins\mcufinder/ => C:\Users\vanba\.stmcufinder\plugins\mcufinder
+2024-07-20 22:54:41,639 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\vanba\.stmcufinder\plugins\mcufinder//mcu/cs/
+2024-07-20 22:54:41,659 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431
+2024-07-20 22:54:41,661 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2024-07-20 22:54:41,662 [INFO] PluginManage:310 - Check plugin analytics
+2024-07-20 22:54:41,823 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2024-07-20 22:54:41,823 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2024-07-20 22:54:41,824 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2024-07-20 22:54:41,826 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2024-07-20 22:54:41,826 [INFO] PluginManage:310 - Check plugin cadmodel
+2024-07-20 22:54:41,837 [INFO] CADModel:105 - Init CAD model plugin
+2024-07-20 22:54:41,837 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2024-07-20 22:54:41,837 [INFO] PluginManage:310 - Check plugin clock
+2024-07-20 22:54:41,853 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2024-07-20 22:54:41,853 [INFO] PluginManage:310 - Check plugin ddr
+2024-07-20 22:54:41,855 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2024-07-20 22:54:41,855 [INFO] PluginManage:310 - Check plugin filemanager
+2024-07-20 22:54:41,991 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2024-07-20 22:54:41,992 [INFO] PluginManage:310 - Check plugin ipmanager
+2024-07-20 22:54:42,000 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2024-07-20 22:54:42,000 [INFO] PluginManage:310 - Check plugin lpbam
+2024-07-20 22:54:42,016 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2024-07-20 22:54:42,016 [INFO] PluginManage:310 - Check plugin memorymap
+2024-07-20 22:54:42,037 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2024-07-20 22:54:42,037 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2024-07-20 22:54:42,056 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2024-07-20 22:54:42,056 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2024-07-20 22:54:42,141 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2024-07-20 22:54:42,277 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2024-07-20 22:54:42,277 [INFO] PluginManage:310 - Check plugin power
+2024-07-20 22:54:42,292 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2024-07-20 22:54:42,292 [INFO] PluginManage:310 - Check plugin projectmanager
+2024-07-20 22:54:42,306 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2024-07-20 22:54:42,306 [INFO] PluginManage:310 - Check plugin rif
+2024-07-20 22:54:42,318 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2024-07-20 22:54:42,319 [INFO] PluginManage:310 - Check plugin thirdparty
+2024-07-20 22:54:42,598 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2024-07-20 22:54:42,597 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2024-07-20 22:54:42,598 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2024-07-20 22:54:42,598 [INFO] PluginManage:310 - Check plugin tools
+2024-07-20 22:54:42,598 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2024-07-20 22:54:42,632 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2024-07-20 22:54:42,632 [INFO] PluginManage:310 - Check plugin tutovideos
+2024-07-20 22:54:42,768 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2024-07-20 22:54:42,768 [INFO] PluginManage:310 - Check plugin updater
+2024-07-20 22:54:42,781 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2024-07-20 22:54:42,781 [INFO] PluginManage:310 - Check plugin userauth
+2024-07-20 22:54:42,785 [INFO] UserAuth:113 - Init User Auth plugin
+2024-07-20 22:54:42,785 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2024-07-20 22:54:42,786 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2024-07-20 22:54:42,944 [INFO] PinOutPanel:1561 - setPackage(No Configuration,No Configuration)
+2024-07-20 22:54:43,005 [INFO] CADModel:165 - CPN selected for project level
+2024-07-20 22:54:43,005 [INFO] CADModel:114 - Register for checkConnection events
+2024-07-20 22:54:43,022 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,022 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2024-07-20 22:54:43,057 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,057 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2024-07-20 22:54:43,090 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,091 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2024-07-20 22:54:43,109 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,109 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2024-07-20 22:54:43,136 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,136 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2024-07-20 22:54:43,145 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,145 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2024-07-20 22:54:43,169 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,169 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2024-07-20 22:54:43,180 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,180 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2024-07-20 22:54:43,215 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,215 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2024-07-20 22:54:43,252 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,252 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2024-07-20 22:54:43,269 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,269 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2024-07-20 22:54:43,308 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,308 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2024-07-20 22:54:43,318 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,318 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2024-07-20 22:54:43,335 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,335 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2024-07-20 22:54:43,410 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,410 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2024-07-20 22:54:43,512 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,512 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2024-07-20 22:54:43,522 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,522 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2024-07-20 22:54:43,605 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,605 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2024-07-20 22:54:43,632 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,632 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2024-07-20 22:54:43,678 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,678 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2024-07-20 22:54:43,713 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,713 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2024-07-20 22:54:43,752 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,752 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2024-07-20 22:54:43,839 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,839 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2024-07-20 22:54:43,917 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,917 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2024-07-20 22:54:43,946 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,946 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2024-07-20 22:54:43,976 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,976 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2024-07-20 22:54:43,986 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,987 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2024-07-20 22:54:43,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:43,996 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2024-07-20 22:54:44,032 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,032 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2024-07-20 22:54:44,084 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,084 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2024-07-20 22:54:44,119 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,119 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2024-07-20 22:54:44,130 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,132 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2024-07-20 22:54:44,157 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,157 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2024-07-20 22:54:44,178 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,178 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2024-07-20 22:54:44,188 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,188 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2024-07-20 22:54:44,228 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,229 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2024-07-20 22:54:44,259 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,260 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2024-07-20 22:54:44,326 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,326 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2024-07-20 22:54:44,348 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,348 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2024-07-20 22:54:44,402 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,402 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2024-07-20 22:54:44,421 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,422 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2024-07-20 22:54:44,443 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,443 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2024-07-20 22:54:44,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,463 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2024-07-20 22:54:44,482 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,482 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2024-07-20 22:54:44,521 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,521 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2024-07-20 22:54:44,558 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-07-20 22:54:44,558 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2024-07-20 22:54:44,673 [INFO] CADModel:165 - CPN selected for project level
+2024-07-20 22:54:44,673 [INFO] CADModel:114 - Register for checkConnection events
+2024-07-20 22:54:44,673 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:44,673 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2024-07-20 22:54:44,772 [INFO] CADModel:165 - CPN selected for project level
+2024-07-20 22:54:44,772 [INFO] CADModel:114 - Register for checkConnection events
+2024-07-20 22:54:44,773 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:44,773 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2024-07-20 22:54:44,775 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:44,867 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:44,875 [INFO] DbMcusAds:53 - JSON generation date=Thu May 16 11:22:01 CEST 2024 (1715851321109)
+2024-07-20 22:54:44,875 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:44,903 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-07-20 22:54:45,061 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:45,062 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:45,062 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:45,063 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-07-20 22:54:45,063 [FATAL] Updater:334 - Updater called before beeing initialized
+2024-07-20 22:54:45,145 [ERROR] Updater:1164 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2024-07-20 22:54:45,154 [INFO] Updater:1100 - Updater Version found : 6.12.0
+2024-07-20 22:54:45,166 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431
+2024-07-20 22:54:45,600 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2024-07-20 22:54:46,736 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jul 20, 2024 10:54:46 PM java.util.prefs.WindowsPreferences <init>
+2024-07-20 22:54:46,737 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0xffffffff80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2024-07-20 22:54:46,737 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-07-20 22:54:47,007 [INFO] MainUpdater:2873 - connection check result : 10
+2024-07-20 22:54:47,008 [INFO] MainUpdater:290 - Updater Check For Update Now.
+2024-07-20 22:54:47,008 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.120
+2024-07-20 22:54:47,021 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2024-07-20 22:54:47,022 [INFO] UserAuth:179 - activating auth plugin
+2024-07-20 22:54:47,023 [INFO] UserAuth:417 - Internet connection configuration mode: 1
+2024-07-20 22:54:47,048 [INFO] JxBrowserEngine:152 - Initiate JxBrowser Engine with user profile folder
+2024-07-20 22:54:47,189 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2024-07-20 22:54:48,748 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2024-07-20 22:54:48,770 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2024-07-20 22:54:48,804 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2024-07-20 22:54:48,821 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2024-07-20 22:54:48,835 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2024-07-20 22:54:48,853 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2024-07-20 22:54:48,866 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2024-07-20 22:54:48,892 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.3.1.0
+2024-07-20 22:54:48,912 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2024-07-20 22:54:48,941 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-07-20 22:54:48,943 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-07-20 22:54:48,945 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-07-20 22:54:48,947 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-07-20 22:54:48,948 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-07-20 22:54:48,953 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2024-07-20 22:54:48,971 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2024-07-20 22:54:48,991 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.3.0
+2024-07-20 22:54:49,004 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2024-07-20 22:54:49,016 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.1.0
+2024-07-20 22:54:49,045 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2024-07-20 22:54:49,067 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2024-07-20 22:54:49,082 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2024-07-20 22:54:49,105 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2024-07-20 22:54:49,105 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,106 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,107 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,108 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,109 [ERROR] ConditionMgr:805 - Attr not supported : Dmpu
+2024-07-20 22:54:49,113 [INFO] WebApp:167 - Instantiating new browser for Auth
+2024-07-20 22:54:49,120 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2024-07-20 22:54:49,135 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2024-07-20 22:54:49,156 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.1.0
+2024-07-20 22:54:49,175 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2024-07-20 22:54:49,209 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2024-07-20 22:54:49,260 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2024-07-20 22:54:49,276 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2024-07-20 22:54:49,304 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2024-07-20 22:54:49,318 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.2.0
+2024-07-20 22:54:49,339 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2024-07-20 22:54:49,352 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2024-07-20 22:54:49,364 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.2.0
+2024-07-20 22:54:49,374 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.9.0.0
+2024-07-20 22:54:49,384 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.1
+2024-07-20 22:54:49,414 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-07-20 22:54:49,415 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2024-07-20 22:54:49,416 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-07-20 22:54:49,417 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-07-20 22:54:49,417 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-07-20 22:54:49,434 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2024-07-20 22:54:49,468 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,469 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,471 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2024-07-20 22:54:49,472 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,472 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,473 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,473 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,473 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-07-20 22:54:49,488 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.0.0
+2024-07-20 22:54:49,507 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2024-07-20 22:54:49,532 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2024-07-20 22:54:49,546 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.0.0
+2024-07-20 22:54:49,559 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2024-07-20 22:54:49,603 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.10.0.0
+2024-07-20 22:54:49,698 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.24.0
+2024-07-20 22:54:49,712 [WARN] PackLoader:240 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2024-07-20 22:54:49,745 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.0.0
+2024-07-20 22:54:49,764 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.0
+2024-07-20 22:54:49,788 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.1
+2024-07-20 22:54:49,829 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.2.0
+2024-07-20 22:54:49,832 [INFO] ThirdParty:978 - Integrity check success = true
+2024-07-20 22:54:49,832 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2024-07-20 22:54:49,832 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2024-07-20 22:54:49,874 [INFO] WebApp:448 - Apply proxy settings
+2024-07-20 22:54:49,874 [INFO] WebApp:533 - Chromium requires no authentication
+2024-07-20 22:54:49,881 [INFO] WebApp:476 - Direct internet connection detected
+2024-07-20 22:54:49,902 [INFO] WebApp:869 - Register for checkConnection events
+2024-07-20 22:54:49,903 [INFO] WebApp:448 - Apply proxy settings
+2024-07-20 22:54:49,903 [INFO] WebApp:533 - Chromium requires no authentication
+2024-07-20 22:54:49,903 [INFO] WebApp:476 - Direct internet connection detected
+2024-07-20 22:54:50,094 [INFO] WebApp:220 - Starting web application
+2024-07-20 22:54:50,094 [INFO] WebApp:578 - Web application path used C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\db\plugins\mcufinder\reactClient1\index.html
+2024-07-20 22:54:52,183 [INFO] WebApp:186 - Connection restablished
+2024-07-20 22:56:44,701 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:44.695:INFO :jei.FileDataWriter:main: Interruptible file channel will be used
+2024-07-20 22:56:44,707 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.reflect.InaccessibleObjectException: Unable to make public void sun.nio.ch.FileChannelImpl.setUninterruptible() accessible: module java.base does not "exports sun.nio.ch" to unnamed module @3455bfb
+2024-07-20 22:56:44,709 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+2024-07-20 22:56:44,712 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+2024-07-20 22:56:44,714 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Method.java:199)
+2024-07-20 22:56:44,716 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.setAccessible(Method.java:193)
+2024-07-20 22:56:44,719 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.io.FileDataWriter$Companion$setUninterruptibleMethod$1.invoke(FileDataWriter.kt:188)
+2024-07-20 22:56:44,722 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.io.FileDataWriter$Companion$setUninterruptibleMethod$1.invoke(FileDataWriter.kt:185)
+2024-07-20 22:56:44,724 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.util.UnsafeHolder.doPrivileged$lambda-0(UnsafeHolder.kt:30)
+2024-07-20 22:56:44,727 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+2024-07-20 22:56:44,729 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.util.UnsafeHolder.doPrivileged(UnsafeHolder.kt:29)
+2024-07-20 22:56:44,732 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.io.FileDataWriter.<clinit>(FileDataWriter.kt:185)
+2024-07-20 22:56:44,734 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.io.FileDataReaderWriterProvider.newFileDataWriter(FileDataReaderWriterProvider.kt:48)
+2024-07-20 22:56:44,737 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.io.FileDataReaderWriterProvider.newReaderWriter(FileDataReaderWriterProvider.kt:30)
+2024-07-20 22:56:44,740 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.log.LogConfig.createReaderWriter(LogConfig.java:359)
+2024-07-20 22:56:44,742 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.log.LogConfig.getReader(LogConfig.java:125)
+2024-07-20 22:56:44,744 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.log.Log.<init>(Log.kt:52)
+2024-07-20 22:56:44,746 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments.newLogInstance(Environments.kt:117)
+2024-07-20 22:56:44,748 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments.newLogInstance(Environments.kt:81)
+2024-07-20 22:56:44,750 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments.newLogInstance(Environments.kt:77)
+2024-07-20 22:56:44,752 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments$newInstance$4.invoke(Environments.kt:46)
+2024-07-20 22:56:44,754 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments$newInstance$4.invoke(Environments.kt:46)
+2024-07-20 22:56:44,756 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments.prepare(Environments.kt:120)
+2024-07-20 22:56:44,757 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.env.Environments.newInstance(Environments.kt:46)
+2024-07-20 22:56:44,760 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.entitystore.PersistentEntityStores.newInstance(PersistentEntityStores.java:64)
+2024-07-20 22:56:44,763 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jetbrains.exodus.entitystore.PersistentEntityStores.newInstance(PersistentEntityStores.java:70)
+2024-07-20 22:56:44,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.persistence.ChatPersistenceManager.init(ChatPersistenceManager.java:56)
+2024-07-20 22:56:44,768 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.persistence.ChatPersistenceManager.<init>(ChatPersistenceManager.java:45)
+2024-07-20 22:56:44,770 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ChatService.init(ChatService.java:142)
+2024-07-20 22:56:44,772 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ChatService.statusChanged(ChatService.java:697)
+2024-07-20 22:56:44,774 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ChatService.<init>(ChatService.java:133)
+2024-07-20 22:56:44,776 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ChatService$LazyHolder.<clinit>(ChatService.java:110)
+2024-07-20 22:56:44,778 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ChatService.getInstance(ChatService.java:114)
+2024-07-20 22:56:44,780 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ChatUtils.getChatService(ChatUtils.java:34)
+2024-07-20 22:56:44,783 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ui.ChatPopupMenuContribution.createSkillMenuItems(ChatPopupMenuContribution.java:181)
+2024-07-20 22:56:44,786 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.genuitec.copilot4eclipse.chat.ui.ChatPopupMenuContribution.getContributionItems(ChatPopupMenuContribution.java:100)
+2024-07-20 22:56:44,789 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+2024-07-20 22:56:44,791 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+2024-07-20 22:56:44,794 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:146)
+2024-07-20 22:56:44,796 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:729)
+2024-07-20 22:56:44,797 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:806)
+2024-07-20 22:56:44,799 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:673)
+2024-07-20 22:56:44,802 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1227)
+2024-07-20 22:56:44,805 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processContents(MenuManagerRenderer.java:655)
+2024-07-20 22:56:44,808 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeTopicChildAdded(MenuManagerRenderer.java:325)
+2024-07-20 22:56:44,810 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at jdk.internal.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+2024-07-20 22:56:44,813 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2024-07-20 22:56:44,814 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2024-07-20 22:56:44,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+2024-07-20 22:56:44,818 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+2024-07-20 22:56:44,820 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+2024-07-20 22:56:44,822 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4802)
+2024-07-20 22:56:44,825 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+2024-07-20 22:56:44,828 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+2024-07-20 22:56:44,830 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:208)
+2024-07-20 22:56:44,833 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:206)
+2024-07-20 22:56:44,835 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+2024-07-20 22:56:44,837 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+2024-07-20 22:56:44,839 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+2024-07-20 22:56:44,842 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+2024-07-20 22:56:44,844 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+2024-07-20 22:56:44,846 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+2024-07-20 22:56:44,848 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+2024-07-20 22:56:44,850 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+2024-07-20 22:56:44,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+2024-07-20 22:56:44,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:249)
+2024-07-20 22:56:44,856 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.addUnique(NotifyingListImpl.java:356)
+2024-07-20 22:56:44,858 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.emf.common.util.AbstractEList.add(AbstractEList.java:340)
+2024-07-20 22:56:44,861 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.mergeIntoModel(ContributionRecord.java:253)
+2024-07-20 22:56:44,864 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processAddition(MenuManagerRenderer.java:551)
+2024-07-20 22:56:44,867 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.generateContributions(MenuManagerRenderer.java:531)
+2024-07-20 22:56:44,869 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processContributions(MenuManagerRenderer.java:499)
+2024-07-20 22:56:44,871 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.PopupMenuExtender.addMenuContributions(PopupMenuExtender.java:380)
+2024-07-20 22:56:44,873 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:355)
+2024-07-20 22:56:44,874 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:338)
+2024-07-20 22:56:44,877 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:468)
+2024-07-20 22:56:44,879 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+2024-07-20 22:56:44,881 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+2024-07-20 22:56:44,882 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+2024-07-20 22:56:44,884 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+2024-07-20 22:56:44,886 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+2024-07-20 22:56:44,886 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+2024-07-20 22:56:44,888 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+2024-07-20 22:56:44,889 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5141)
+2024-07-20 22:56:44,891 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4773)
+2024-07-20 22:56:44,892 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+2024-07-20 22:56:44,894 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+2024-07-20 22:56:44,896 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2305)
+2024-07-20 22:56:44,897 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+2024-07-20 22:56:44,899 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+2024-07-20 22:56:44,900 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:237)
+2024-07-20 22:56:44,902 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4112)
+2024-07-20 22:56:44,903 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+2024-07-20 22:56:44,906 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+2024-07-20 22:56:44,908 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+2024-07-20 22:56:44,911 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+2024-07-20 22:56:44,913 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2024-07-20 22:56:44,915 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+2024-07-20 22:56:44,917 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+2024-07-20 22:56:44,918 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+2024-07-20 22:56:44,920 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2024-07-20 22:56:44,922 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2024-07-20 22:56:44,924 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2024-07-20 22:56:44,927 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+2024-07-20 22:56:44,929 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+2024-07-20 22:56:44,931 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+2024-07-20 22:56:44,933 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2024-07-20 22:56:44,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2024-07-20 22:56:44,937 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2024-07-20 22:56:44,939 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2024-07-20 22:56:44,941 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2024-07-20 22:56:44,943 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+2024-07-20 22:56:44,944 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+2024-07-20 22:56:44,946 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+2024-07-20 22:56:44,949 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:44.946:WARN :jei.FileDataWriter:main: Can't open directory channel. Log directory fsync won't be performed.
+2024-07-20 22:56:45,068 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.061:INFO :jee.EnvironmentImpl:main: Exodus environment created: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\.metadata\.plugins\com.genuitec.copilot4eclipse\chatdata
+2024-07-20 22:56:45,167 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Template retrieveal returned 7 templates
+2024-07-20 22:56:45,245 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.243:WARN :oejsh.ContextHandler:Worker-7: Jetty Service: o.e.j.s.ServletContextHandler@6d012efe{/,null,STOPPED} contextPath ends with /
+2024-07-20 22:56:45,259 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.258:INFO :oejs.Server:Worker-7: Jetty Service: jetty-10.0.20; built: 2024-01-29T20:46:45.278Z; git: 3a745c71c23682146f262b99f4ddc4c1bc41630c; jvm 17.0.11+9
+2024-07-20 22:56:45,314 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.312:INFO :oejss.DefaultSessionIdManager:Worker-7: Jetty Service: Session workerName=node0
+2024-07-20 22:56:45,319 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.317:INFO :oejsh.ContextHandler:Worker-7: Jetty Service: Started o.e.j.s.ServletContextHandler@6d012efe{/chat,null,AVAILABLE}
+2024-07-20 22:56:45,328 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.327:INFO :oejs.AbstractConnector:Worker-7: Jetty Service: Started ServerConnector@2b17459b{HTTP/1.1, (http/1.1)}{0.0.0.0:65517}
+2024-07-20 22:56:45,331 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:56:45.329:INFO :oejs.Server:Worker-7: Jetty Service: Started Server@6cab9a13{STARTING}[10.0.20,sto=0] @140113ms
+2024-07-20 22:57:02,392 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Chat Session Id: 1721509018812
+2024-07-20 22:57:02,607 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] script: uploadSkills(['/tests','Generate unit tests','/simplify','Simplify the code','/fix','Fix problems and compile errors','/explain','Explain how the code works','/doc','Document the current selection of code','/help','Get help on how to use Copilot chat','/clear-history','Clear prompt history'])
+2024-07-20 22:57:39,116 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Turn Completed
+2024-07-20 22:57:39,134 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] script: setMessageReferences('vid1004', ['main.c']);
+2024-07-20 22:58:07,773 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Turn Completed
+2024-07-20 22:58:07,780 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] script: setMessageReferences('vid1006', ['main.c']);
+2024-07-20 22:59:14,165 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Doc changed: file:///C:/Users/vanba/OneDrive/Documenten/CubeIde_Projects/projects7_24/.metadata/OrpPhModule/Core/Src/main.c null
+2024-07-20 22:59:14,381 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:59:14.378:INFO :oejs.Server:main: Stopped Server@6cab9a13{STOPPING}[10.0.20,sto=0]
+2024-07-20 22:59:14,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:59:14.384:INFO :oejs.AbstractConnector:main: Stopped ServerConnector@2b17459b{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2024-07-20 22:59:14,394 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 2024-07-20 22:59:14.391:INFO :oejsh.ContextHandler:main: Stopped o.e.j.s.ServletContextHandler@6d012efe{/chat,null,STOPPED}
+2024-07-20 22:59:14,607 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-07-20 22:59:14,608 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

@@ -1,0 +1,30 @@
+/*
+ * Esp.h
+ *
+ *  Created on: Aug 4, 2024
+ *      Author: vanba
+ */
+
+#ifndef INC_ESP_H_
+#define INC_ESP_H_
+
+
+typedef enum{
+	disconnected = 0u,
+	connected,
+}WifiMqttState;
+
+struct Time{
+	char Hour = 0;
+	char Minutes = 0;
+};
+typedef struct
+{
+	char WiFi = disconnected;
+	char Mqtt = disconnected;
+	uint8_t Hour = 0;
+	uint8_t Minute = 0;
+	struct Time Time;
+}ESP;
+
+#endif /* INC_ESP_H_ */

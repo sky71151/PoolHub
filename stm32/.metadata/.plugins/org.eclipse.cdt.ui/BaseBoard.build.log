@@ -1,0 +1,10 @@
+23:59:18 **** Incremental Build of configuration Debug for project BaseBoard ****
+make -j12 all 
+arm-none-eabi-size  BaseBoard.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23972	     96	   8976	  33044	   8114	BaseBoard.elf
+Finished building: default.size.stdout
+ 
+
+23:59:18 Build Finished. 0 errors, 0 warnings. (took 355ms)
+

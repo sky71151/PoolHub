@@ -1,0 +1,77 @@
+2024-07-30 00:10:52,400 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-07-30 00:11:01,094 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 296360064 Bytes (763363328)
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: FREERTOS
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: UART
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-07-30 00:11:01,403 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-07-30 00:11:01,404 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-07-30 00:11:01,586 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\license.tmp_save
+2024-07-30 00:11:02,037 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\license.tmp
+2024-07-30 00:11:02,105 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\gpio.tmp_save
+2024-07-30 00:11:02,229 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\gpio.tmp
+2024-07-30 00:11:02,339 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-30 00:11:02,351 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_inc.tmp_save
+2024-07-30 00:11:02,446 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_inc.tmp
+2024-07-30 00:11:02,455 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-30 00:11:02,538 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-30 00:11:02,547 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-30 00:11:02,606 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-30 00:11:02,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-30 00:11:02,677 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_typedefs.tmp
+2024-07-30 00:11:02,690 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_vars.tmp_save
+2024-07-30 00:11:02,779 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_vars.tmp
+2024-07-30 00:11:02,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-30 00:11:02,852 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_pfp.tmp
+2024-07-30 00:11:02,865 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-30 00:11:02,939 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-30 00:11:02,951 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-30 00:11:03,010 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_default_thread.tmp
+2024-07-30 00:11:03,020 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_threads.tmp_save
+2024-07-30 00:11:03,074 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_threads.tmp
+2024-07-30 00:11:03,087 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-30 00:11:03,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_inc.tmp_save
+2024-07-30 00:11:03,156 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_inc.tmp
+2024-07-30 00:11:03,162 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-30 00:11:03,209 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-30 00:11:03,214 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-30 00:11:03,263 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-30 00:11:03,268 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-30 00:11:03,311 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_typedefs.tmp
+2024-07-30 00:11:03,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_vars.tmp_save
+2024-07-30 00:11:03,372 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_vars.tmp
+2024-07-30 00:11:03,377 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-30 00:11:03,420 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_pfp.tmp
+2024-07-30 00:11:03,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-30 00:11:03,475 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-30 00:11:03,481 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-30 00:11:03,545 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_default_thread.tmp
+2024-07-30 00:11:03,550 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_threads.tmp_save
+2024-07-30 00:11:03,593 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\rtos_threads.tmp
+2024-07-30 00:11:03,611 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\FreeRTOSConfig.h_save
+2024-07-30 00:11:03,697 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\FreeRTOSConfig.h
+2024-07-30 00:11:03,720 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\freertos.c_save
+2024-07-30 00:11:03,784 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\freertos.c
+2024-07-30 00:11:03,812 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\stm32f1xx_it.c_save
+2024-07-30 00:11:03,894 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\stm32f1xx_it.c
+2024-07-30 00:11:03,911 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\stm32f1xx_it.h_save
+2024-07-30 00:11:03,968 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\stm32f1xx_it.h
+2024-07-30 00:11:03,998 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\stm32f1xx_hal_msp.c_save
+2024-07-30 00:11:04,099 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\stm32f1xx_hal_msp.c
+2024-07-30 00:11:04,108 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\system.tmp_save
+2024-07-30 00:11:04,162 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\MXTmpFiles\system.tmp
+2024-07-30 00:11:04,177 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2024-07-30 00:11:04,242 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\stm32f1xx_hal_timebase_tim.c
+2024-07-30 00:11:04,267 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-07-30 00:11:04,336 [INFO] CodeEngine:335 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\stm32f1xx_hal_conf.h
+2024-07-30 00:11:04,383 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\main.h_save
+2024-07-30 00:11:04,484 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Inc\main.h
+2024-07-30 00:11:04,502 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\main.c_save
+2024-07-30 00:11:04,645 [INFO] CodeEngine:279 - Generated code: C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\BaseBoard\Core\Src\main.c
+2024-07-30 00:11:05,029 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 153mS.
+2024-07-30 00:11:05,035 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-07-30 00:11:05,110 [INFO] ConfigFileManager:1531 - The Die is : DIE414
+2024-07-30 00:11:05,121 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-07-30 00:11:05,134 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE

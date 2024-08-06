@@ -1,0 +1,18 @@
+16:25:26 **** Build of configuration Debug for project OrpPhModule ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F030x8 -c -I../Core/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc "../Core/Src/modbusSlave.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F030x8 -c -I../Core/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/modbusSlave.d" -MT"Core/Src/modbusSlave.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/modbusSlave.o"
+arm-none-eabi-gcc -o "OrpPhModule.elf" @"objects.list"   -mcpu=cortex-m0 -T"C:\Users\vanba\OneDrive\Documenten\CubeIde_Projects\projects7_24\.metadata\OrpPhModule\STM32F030C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="OrpPhModule.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: OrpPhModule.elf
+ 
+arm-none-eabi-size  OrpPhModule.elf 
+arm-none-eabi-objdump -h -S OrpPhModule.elf  > "OrpPhModule.list"
+   text	   data	    bss	    dec	    hex	filename
+  18208	    112	   2432	  20752	   5110	OrpPhModule.elf
+Finished building: default.size.stdout
+ 
+Finished building: OrpPhModule.list
+ 
+
+16:25:27 Build Finished. 0 errors, 0 warnings. (took 1s.289ms)
+
